@@ -1,0 +1,6 @@
+<template>
+    <h3 class="text-center fw-bold" style="color: red;">About Us</h3>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum enim sit amet purus finibus gravida. Maecenas at ante velit. Donec congue imperdiet est at tempus. Cras pulvinar dictum magna, ac hendrerit libero blandit eu. Vivamus at scelerisque orci. Quisque ac porttitor ante. Quisque malesuada velit risus, vel tempor justo ornare vel. Praesent eu lacinia est. Morbi vestibulum odio non egestas fringilla. Praesent in nisi vehicula, consectetur erat vel, malesuada arcu. Aliquam porttitor est et libero aliquet dictum. Nulla facilisi. Vestibulum sed dictum enim. Vivamus eget libero aliquet, sodales leo non, varius lorem. Aliquam pellentesque velit et augue dapibus imperdiet. Suspendisse mattis id neque a viverra.
+
+Phasellus vel blandit nisi. Donec sed ligula auctor, ornare tortor nec, porttitor tortor. Nullam consequat, augue ac mattis eleifend, felis diam suscipit turpis, ut faucibus elit augue ut leo. Nullam condimentum auctor hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris auctor tristique nibh, at finibus quam interdum in. Integer tempor, turpis et luctus vestibulum, massa nibh posuere augue, in pretium purus ipsum id neque. Maecenas eu ultrices ipsum.
+</template>

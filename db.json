@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Omnia",
+      "city": "Monofia"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed",
+      "city": "Alex"
+    },
+    {
+      "id": 3,
+      "name": "Ehdaa",
+      "city": "Minofiyah"
+    },
+    {
+      "id": "4",
+      "name": "Majed",
+      "city": "Mansoura"
+    },
+    {
+      "id": "6",
+      "name": "Adam",
+      "city": "Tanta"
+    },
+    {
+      "id": "7",
+      "name": "Ayman",
+      "city": "Banha"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
